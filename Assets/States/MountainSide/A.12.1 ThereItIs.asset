@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.12.1 ThereItIs
+  m_EditorClassIdentifier: 
+  storyText: 'Suddenly out of the corner of your eye you see it. The purple fox.
+    It comes up to you needing your help. You can take it home and give it some food,
+    and see if its hurt.
+
+    
+
+    1. Take the fox home feed it, wrap it in a
+    warm blanket, and fall asleep'
+  nextStates:
+  - {fileID: 11400000, guid: cc924b27bd236524da6098092dfdac55, type: 2}

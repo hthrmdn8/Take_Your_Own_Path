@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.10.1 North
+  m_EditorClassIdentifier: 
+  storyText: 'You hike up the mountain side, and you are starting to feel lost....you
+    can''t see any man made light. Its getting windy, and cold. There''s a cave near
+    by that you possibly start a fire in, and rest. If you don''t you coulc keep
+    searching for the fox.
+
+    
+
+    What should you do?
+
+    
+
+    1. build
+    a fire in the cave, and rest
+
+    
+
+    2. Continue searching '
+  nextStates:
+  - {fileID: 11400000, guid: cc924b27bd236524da6098092dfdac55, type: 2}
+  - {fileID: 11400000, guid: a0e48b790cf660247a726da04ccca8a5, type: 2}

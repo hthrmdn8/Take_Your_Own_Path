@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.3.1 RunFaster
+  m_EditorClassIdentifier: 
+  storyText: 'Running as fast as possible, and you can still see the flicker of the
+    tail dash around bushes...you am catching up to it. Its right there. You can
+    try to catch it using the jacket ties around my waist, or you can try to get
+    in front of the fox to stop it
+
+    
+
+    What should you do?
+
+    
+
+    1.
+    Try to catch the fox
+
+    
+
+    2. Try to stop the fox'
+  nextStates:
+  - {fileID: 11400000, guid: 447712034c21d534980abfb39517dde1, type: 2}
+  - {fileID: 11400000, guid: bae261fb1f204d84cb153566ccf21a1e, type: 2}

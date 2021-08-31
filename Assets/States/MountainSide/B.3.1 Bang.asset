@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: B.3.1 Bang
+  m_EditorClassIdentifier: 
+  storyText: '**BANG** ..... ...... ..... there was a loud noise that came from mountain
+    side
+
+    
+
+    You have to go see what it is. If there''s a rock slide it
+    will take out your house
+
+    
+
+    1. See what the noise was'
+  nextStates:
+  - {fileID: 11400000, guid: 4c33513541131ec4fb87616be71f3d47, type: 2}

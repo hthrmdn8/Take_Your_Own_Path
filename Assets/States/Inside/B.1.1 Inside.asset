@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: B.1.1 Inside
+  m_EditorClassIdentifier: 
+  storyText: "You rush inside, close the door hoping to forget the *mirage* you just
+    saw. You throw away the new tea mom recently gave you. It must have had something
+    to do with it. \r\n\r\nYou could try to go to bed, or read a book.\r\nWhat should
+    you do?\r\n\r\n1. Try to go to bed\r\n\r\n2. Read a book"
+  nextStates:
+  - {fileID: 11400000, guid: 8c429838fffcc9142aacbeb03669e23d, type: 2}
+  - {fileID: 11400000, guid: c8e69e2506fdb814baf508ad83e275f6, type: 2}

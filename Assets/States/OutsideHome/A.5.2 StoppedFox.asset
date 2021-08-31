@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.5.2 StoppedFox
+  m_EditorClassIdentifier: 
+  storyText: "The little thing easily squirms out of your grasp, and looks at you
+    almost puzzled. You stop to think about what you have done. Chasing a defenseless
+    aminal through the woods only to try to catch it. You know better than that.
+    You can either apologize, or try to leave. \r\n\r\nWhat should you do?\r\n\r\n1.
+    Try to apologize to let the fox know you know you screwed up\r\n\r\n2. Try to
+    leave...you've done enough"
+  nextStates:
+  - {fileID: 11400000, guid: ef4edbf3b07f0414d87a09dcd50badc1, type: 2}
+  - {fileID: 11400000, guid: ef4edbf3b07f0414d87a09dcd50badc1, type: 2}

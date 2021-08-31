@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.4.1 CatchFox
+  m_EditorClassIdentifier: 
+  storyText: "You pull your coat off, run as fast as you can, then try to pounce
+    it holding it under your coat. It scrambles away in fear hissing and yelping.
+    Its no where in sight. \r\n\r\nPress 1"
+  nextStates:
+  - {fileID: 11400000, guid: 6e21d7c3c3adb1c4b8e26fa3857c8246, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: B.2.2 Book
+  m_EditorClassIdentifier: 
+  storyText: 'You sit to try to read your favorite book, and can''t get the picture
+    of the fox out of my head (are you loosing it?). You have to be seeing things.
+    Worst of all you can''t focus on this book.
+
+    
+
+    What should you do?
+
+    
+
+    1.
+    Draw the strange fox.
+
+    
+
+    2. Try to keep focusing on the book.'
+  nextStates:
+  - {fileID: 11400000, guid: 95ce750678546674ea4c651eeb59b0a2, type: 2}
+  - {fileID: 11400000, guid: d2dbf9933d82893479d8ff4d7a416be5, type: 2}

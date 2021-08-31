@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.8.2 Mushrooms
+  m_EditorClassIdentifier: 
+  storyText: 'You walk into the hallway with mushrooms, start to feel dizzy, and
+    end up needing to rest on a mushroom for a little while. A little shut eye couldn''t
+    hurt anyone, and you haven''t seen anyone since seeing the gnomes....
+
+    
+
+    You
+    end up waking up in your bed confused, and just wanting to go back to sleep to
+    forget all of this. '
+  nextStates:
+  - {fileID: 11400000, guid: 8c429838fffcc9142aacbeb03669e23d, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: B.4.1 Noise
+  m_EditorClassIdentifier: 
+  storyText: "You turn the corner to find dozens of trees have fallen down, but can't
+    seem to peice together what has happened. There doesnt seem to be anything in
+    your line of sight that could have done this. You could either follow the path
+    of destroied trees to see what has done this or you could search around here
+    to see if anyone was hurt.\r\n\r\nWhat should you do? \r\n\r\n1. See what did
+    this.\r\n\r\n2. See if anyone is hurt"
+  nextStates:
+  - {fileID: 11400000, guid: 3d96ad6b6052d894f95406efb77f2419, type: 2}
+  - {fileID: 11400000, guid: 9e8bc4766e73514469cded2b8aa7f819, type: 2}

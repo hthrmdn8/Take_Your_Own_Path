@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.1. WinterNight
+  m_EditorClassIdentifier: 
+  storyText: "Outside your home on a cold night taking in the silence, and peace
+    of the calm wind. A purple fox runs past you, stops, makes a quick glance at
+    me then darts off. \r\n\r\nYou could chase it, or go to back inside.\r\n\r\nWhat
+    should you do? \r\n\r\n1. Chase the fox to see where it goes. It's purple it
+    has to be going somewhere exciting. \r\n\r\n2. Forget you ever saw it, turn back
+    around go inside, and wish for a more simple world\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 79b8a00a3dabf46478b1c02eb9aa34ad, type: 2}
+  - {fileID: 11400000, guid: a4665da6f421756489390292d835784e, type: 2}

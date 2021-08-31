@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.6.1 FollowFox
+  m_EditorClassIdentifier: 
+  storyText: 'You follow the fox until it takes you to a large den..much larger than
+    any normal fox den. You crawl inside to see what you can only assume is labyrinth
+    of mystical pathways. Giant mushrooms with glowing lights peek out of one hallway
+    while stone carves steps with teeny gnomes passing water  buckets up the side
+    a "hill" nested beside one of the steps. The fox is gone.  What should you do?
+
+    
+
+    1.
+    Ask the gnomes what to do
+
+    
+
+    2. Climb through the mushrooms to see
+    if the fox went that way. '
+  nextStates:
+  - {fileID: 11400000, guid: 153c896f909ebf94caa857d6d452abf2, type: 2}
+  - {fileID: 11400000, guid: e1495fd3c66f3964a8748f36eb271888, type: 2}

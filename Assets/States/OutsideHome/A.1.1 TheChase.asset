@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0bb785edfa8064581b1c1a1511b939, type: 3}
+  m_Name: A.1.1 TheChase
+  m_EditorClassIdentifier: 
+  storyText: 'You chase the fox. You have to know where it''s going, or what it is.
+    Its taking turns through thick brush, but you know you can cut it off if its
+    going to the mountains if you go through the underground tunnel. That would give
+    you a chance to get a better look, or ever catch it. What should you do?
+
+    
+
+    1.
+    Chase the fox through the thick brush.
+
+    
+
+    2.Take the tunnel to cut
+    off the fox to get a better look.'
+  nextStates:
+  - {fileID: 11400000, guid: fbfb7affc8c98a34184fd69121dee4ad, type: 2}
+  - {fileID: 11400000, guid: 04bdcb23937a231459a60eed44b543dc, type: 2}
